@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33f753f5-07c1-4c55-8151-ab4bbc59d6e8" name="Default" comment="" />
+    <list default="true" id="33f753f5-07c1-4c55-8151-ab4bbc59d6e8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unika-html/unika-html/index.html" afterPath="$PROJECT_DIR$/unika-html/unika-html/index.html" />
+    </list>
     <ignored path="kumarpani.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +22,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unika-html/unika-html/img/logo.png">
+      <file leaf-file-name="logo.PNG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unika-html/unika-html/img/logo.PNG">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -30,8 +32,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unika-html/unika-html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="688" column="0" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="120" column="68" selection-start-line="120" selection-start-column="68" selection-end-line="120" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -99,7 +101,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="722" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -371,7 +373,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="722" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -430,7 +432,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unika-html/unika-html/img/logo.png">
+    <entry file="file://$PROJECT_DIR$/unika-html/unika-html/img/logo.PNG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -452,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unika-html/unika-html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="688" column="0" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="120" column="68" selection-start-line="120" selection-start-column="68" selection-end-line="120" selection-end-column="68" />
           <folding />
         </state>
       </provider>
